@@ -561,3 +561,33 @@ http://181.224.237.214:8000/play/a07u/index.m3u8
 http://181.224.237.214:8000/play/a094/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
 http://181.224.237.214:8000/play/a079/index.m3u8
+#EXTINF:-1,505-HD ESPN 
+http://138.186.122.70:8000/play/a00e 
+#EXTINF:-1,506-HD-ESPN-2 
+http://138.186.122.70:8000/play/a00f 
+#EXTINF:-1,507-HD-ESPN-3 
+http://138.186.122.70:8000/play/a00s 
+#EXTINF:-1,508-HD-ESPN-4 
+http://138.186.122.70:8000/play/a01w 
+#EXTINF:-1,510-HD-Fox-Sports-1 
+http://138.186.122.70:8000/play/a010 
+#EXTINF:-1,512-HD-Fox-Sports-3 
+http://138.186.122.70:8000/play/a00t 
+#EXTINF:-1,520-TNT Sport 3 
+http://138.186.122.70:8000/play/a01y 
+#EXTINF:-1,521-TNT-Sport-2 
+http://138.186.122.70:8000/play/a01x 
+#EXTINF:-1 group-title=\"SD\",ESPN 
+http://179.49.224.19:8000/play/a00l 
+#EXTINF:-1 group-title=\"SD\",ESPN 2 
+http://179.49.224.19:8000/play/a01a 
+#EXTINF:-1 group-title=\"SD\",ESPN 3 
+http://179.49.224.19:8000/play/a023 
+#EXTINF:-1 group-title=\"SD\",Fox Sports 
+http://179.49.224.19:8000/play/a00d 
+#EXTINF:-1 group-title=\"SD\",Fox Sports 2 
+http://179.49.224.19:8000/play/a00t 
+#EXTINF:-1 group-title=\"SD\",Fox Sports 3 
+http://179.49.224.19:8000/play/a00u 
+#EXTINF:-1 group-title=\"SD\",Win Sport 
+http://179.49.224.19:8000/play/a08z 
